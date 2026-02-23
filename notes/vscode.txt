@@ -1,0 +1,3 @@
+coping a line to next line (place the carsor in that line)   -  alt+shift+uper or down arrow
+
+moving a line to up or down ward (place the carsor in that line)  -  alt+up or down arrow key
