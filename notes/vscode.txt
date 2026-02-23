@@ -1,3 +1,11 @@
 coping a line to next line (place the carsor in that line)   -  alt+shift+uper or down arrow
 
 moving a line to up or down ward (place the carsor in that line)  -  alt+up or down arrow key
+
+make a line comment , there have to be course in that line then alt+forward slash
+
+making multiline comment , first select all the line i want to make comment , then alt+forward slash
+
+to erase a word at a time , alt+backspace
+
+
