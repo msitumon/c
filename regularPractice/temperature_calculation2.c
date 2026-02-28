@@ -4,6 +4,6 @@ int main(){
     printf("Enter fahrenheit temperature: ");
     scanf("%f",&f);
     c=(f-32)*5/9;
-    printf("Calvin temperature = %.2f\n",c);
+    printf("Celsius temperature = %.2f\n",c);
 return 0;
 }
