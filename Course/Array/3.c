@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&n );
     int a[n],b[n];
     j=n;
-    printf("Enter the element of the array: \n")
+    printf("Enter the element of the array: \n");
     for(i=0; i<n; i++){
         scanf("%d",&a[i]);
         j--;
